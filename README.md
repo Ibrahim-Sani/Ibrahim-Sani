@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Ibrahim
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp4923978.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp4923978.jpg" width = "80" height = "80">
 
  <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp6606914.png">
  
