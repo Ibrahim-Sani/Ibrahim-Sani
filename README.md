@@ -1,18 +1,82 @@
-### Hi 👋, I'm Ibrahim
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp4923978.jpg">
+Here's your updated profile with the Medium blog link added and proper markdown formatting:
 
- <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp6606914.png">
- 
- <img alt="JS -A JS Logo" src="https://wallpapercave.com/wp/wp5422452.jpg">
+
+# Hi 👋, I'm Ibrahim
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://wallpapercave.com/wp/wp11913443.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://wallpapercave.com/wp/wp11913443.jpg">
+ <img alt="Tech Innovation Banner" src="https://wallpapercave.com/wp/wp5422452.jpg">
 </picture>
-<ul>
- <li>🔭 I’m currently working on building user friendly, fast secure web apps</li>
-<li>🌱 I’m currently learning how to maintain and scale web apps with Cloud Computing</li>
- <li>👯 I’m looking to collaborate on MERN stack, Azure and GCP projects</li>
- <li>💬 Ask me about React, Node.js, GCP </li> 
-<li>
- <a href="https://www.linkedin.com/in/ibrahim-sani-dalhatu//" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
- <a href="mailto:dibrahimsani@gmail.com"><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
- </li>
-</ul>
+
+## Tech Entrepreneur & Solutions Architect
+
+Building the future of business through AI, Data, and Cloud Innovation
+
+### What I'm Working On 🚀
+
+- **Data-Driven Ventures**: Architecting and scaling businesses powered by advanced analytics and AI
+- **Enterprise Cloud Solutions**: Implementing secure, automated infrastructure for digital transformation  
+- **AI Integration**: Developing practical AI solutions that drive real business outcomes
+
+### Areas of Development 💡
+
+```python
+Development = {
+    "AI & ML": ["Business Strategy", "Implementation", "Automation"],
+    "Cloud": ["Architecture", "Security", "DevOps"],
+    "Data": ["Analytics", "Engineering", "Governance"], 
+    "Security": ["Cloud Security", "AI Security", "Compliance"]
+}
+```
+
+### Looking to Collaborate On 🤝
+
+- Innovative startup ventures that leverage AI and data
+- Enterprise-grade cybersecurity solutions
+- Cloud transformation projects
+- AI-driven business automation
+
+### Let's Build Something Amazing! 
+
+I'm passionate about helping businesses harness the power of emerging technologies. Whether you're:
+- Starting a new venture
+- Scaling your existing business
+- Looking to innovate with AI and data
+
+Let's connect and explore how we can create impact together!
+
+<div align="left">
+<a href="https://www.linkedin.com/in/ibrahim-sani-dalhatu/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dibrahimsani@gmail.com">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://dibrahimsani.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+</div>
+
+---
+💬 Open to discussing: AI Strategy | Cloud Architecture | Data Solutions | Cybersecurity
+
+### Tech Stack & Tools 🛠️
+
+#### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Programming & Data
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+```
